@@ -3,17 +3,17 @@
 /*                                                        :::      ::::::::   */
 /*   cub3d.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gde-sant <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: gde-sant <gde-sant@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/15 13:55:19 by gde-sant          #+#    #+#             */
-/*   Updated: 2020/01/17 16:10:54 by gde-sant         ###   ########.fr       */
+/*   Updated: 2022/08/30 14:32:26 by gde-sant         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CUB3D_H
 # define CUB3D_H
 
-# include "../lib/minilibx_linux/mlx.h"
+# include "../lib/minilibx-linux/mlx.h"
 # include "../lib/libcustom/include/parse_map.h"
 # include <X11/X.h>
 

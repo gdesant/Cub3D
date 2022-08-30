@@ -17,7 +17,7 @@ RM		= rm -f
 CC		= clang
 CFLAGS	= -Wall -Wextra -Werror
 
-Lib_MLXLINUX = ./lib/minilibx_linux/
+Lib_MLXLINUX = ./lib/minilibx-linux/
 MLX_LINUX 	= ${Lib_MLXLINUX}libmlx.a
 
 Lib_MAP = ./lib/libcustom/
