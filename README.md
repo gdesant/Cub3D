@@ -68,9 +68,9 @@ The Game Data is the first part of the .cub and to be valid it must have multipl
 ~~~~
 R [width] [height]
 ~~~~
-# 
+------
 ### Wall Textures :
-# 
+------
 - North face texture path :
 ~~~~
 NO [path]
@@ -95,11 +95,11 @@ EA [path]
 ~~~~
 S [path]
 ~~~~
-# 
+------
 
 
 ### Colors :
-# 
+------
 - Ceiling color :
 ~~~~
 C [r],[g],[b]
@@ -109,7 +109,7 @@ C [r],[g],[b]
 ~~~~
 C [r],[g],[b]
 ~~~~
-# 
+------
 
 All of them must be in the .cub file for it to be valid but you can write them in any order.
 
