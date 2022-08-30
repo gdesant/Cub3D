@@ -135,4 +135,4 @@ For this map to be valid it must have :
 
 # Feedback  
 
-If you have any feedback, please reach out to us at gdesant@student.42.fr
+If you have any feedback, please reach out to us at gde-sant@student.42.fr
