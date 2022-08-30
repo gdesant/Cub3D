@@ -19,12 +19,11 @@ The goal was to recreate this game graphic engine using the raycast technology.
 
 
 ## How to play  
-------
 
 You can move your player with W,S,A,D and rotate it with ← and →. You can pickup sprites by walking on them.
 
 ## Run Locally  
-----------
+
 Clone the project  
 
 ~~~bash  
@@ -63,16 +62,15 @@ The cub file given as an argument to Cub3D, is a file containing the map and the
 This project include a [map parser](https://github.com/gdesant/Cub3D/blob/main/lib/libcustom/map) to be sure that the map is valid before launching the game. If the map is invalid for any reason the parser will tell the user why the map is invalid and cancel the launch of the game.
 
 ## Game Data 
------------------
 The Game Data is the first part of the .cub and to be valid it must have multiple lines:
 
 - The window size :
 ~~~~
 R [width] [height]
 ~~~~
-------
+# 
 ### Wall Textures :
-------
+# 
 - North face texture path :
 ~~~~
 NO [path]
@@ -97,11 +95,11 @@ EA [path]
 ~~~~
 S [path]
 ~~~~
-------
+# 
 
 
 ### Colors :
-------
+# 
 - Ceiling color :
 ~~~~
 C [r],[g],[b]
@@ -111,12 +109,11 @@ C [r],[g],[b]
 ~~~~
 C [r],[g],[b]
 ~~~~
-------
+# 
 
 All of them must be in the .cub file for it to be valid but you can write them in any order.
 
 ## Map Data  :
------------------
 
 
  
