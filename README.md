@@ -7,6 +7,8 @@
 This project is inspired by a famous game released in 1992 called [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D).\
 The goal was to recreate this game graphic engine using the raycast technology.
 
+You can find the subject  for this project [here](https://github.com/gdesant/Cub3D/blob/main/cub3d.subject.en.pdf)
+
 # 
 
 
@@ -107,7 +109,7 @@ C [r],[g],[b]
 
 - Floor color :
 ~~~~
-F [r],[g],[b]
+C [r],[g],[b]
 ~~~~
 ------
 
